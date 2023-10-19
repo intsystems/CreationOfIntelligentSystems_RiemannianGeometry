@@ -15,9 +15,9 @@
 
 .. class:: center
 
-    :Название исследуемой задачи: Riemannian Geometry and Graph Laplacian metric models
+    :Название исследуемой задачи: Riemannian Geometry and Graph Laplacian metric models `(m1p) <https://m1p.org/index.php/Projects/BCI-FDA:_Brain-computer_interface_with_Functional_data_analysis#:~:text=Wang%202021%20ArXiv-,Riemannian%20Geometry%20and%20Graph%20Laplacian%20metric%20models,-The%20goal%20is>`_
     :Тип научной работы: CoIS
-    :Автор: Имя Отчество Фамилия
+    :Автор(ы): Парвиз Каримов, Георгий Жаров, Валентина Смит
     :Научный руководитель: Грабовой Андрей
 
 Abstract
